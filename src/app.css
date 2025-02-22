@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Slab', serif;
+    
+}
+
+.App {
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+}
+
+html, body {
+    min-height: 100%;
+    background: rgba(222, 66, 66, 66);
+    
+    background: linear-gradient(
+        90deg,
+        rgb(87, 237, 81) 0%,
+        rgb(76, 105, 234) 94%
+    );
+}
